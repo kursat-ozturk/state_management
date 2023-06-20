@@ -1,16 +1,15 @@
 # state_management
 
-A new Flutter project.
+# Wrap-up
 
-## Getting Started
+### In this project, I accomplished the following:
+- Using StatefulWidgets and the setState method to trigger changes
+- Using ValueNotifier and ValueListenableBuilder
+- Sharing data between widgets
+- Triggering rebuilds on one widget from another widget
+- "Lifting the State" using Provider
+- Leveraging more than one service using MultiProvider
+- Communication between provided services
+- Listening to changes and rebuilding using ChangeNotifierProvider and ChangeNotifier services in conjunction with Consumer widgets
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
